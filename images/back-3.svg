@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 800" width="1200" height="800" x="0px" y="0px">
+              
+              <!-- ITEM 0 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-0">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(98.0 71.0) rotate(0.0 23.5 23.5) scale(0.39492479623561044 0.39492479623561044)">
+      <g clip-path="url(#clip-path-id-viewbox-item-0)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#c36969;"/>
+      </g>
+    </g>
+</g>
+
+<!-- ITEM 1 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-1">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(1086.0 324.0) rotate(0.0 17.0 17.0) scale(0.2856902781278884 0.2856902781278884)">
+      <g clip-path="url(#clip-path-id-viewbox-item-1)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#83c369;"/>
+      </g>
+    </g>
+</g>
+
+<!-- ITEM 2 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-2">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(34.0 630.0) rotate(0.0 17.5 17.5) scale(0.2940929333669439 0.2940929333669439)">
+      <g clip-path="url(#clip-path-id-viewbox-item-2)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#69afc3;"/>
+      </g>
+    </g>
+</g>
+
+<!-- ITEM 3 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-3">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(586.0 671.0) rotate(0.0 17.0 17.0) scale(0.2856902781278884 0.2856902781278884)">
+      <g clip-path="url(#clip-path-id-viewbox-item-3)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#ba69c3;"/>
+      </g>
+    </g>
+</g>
+
+<!-- ITEM 4 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-4">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(425.0 318.0) rotate(0.0 17.0 17.0) scale(0.2856902781278884 0.2856902781278884)">
+      <g clip-path="url(#clip-path-id-viewbox-item-4)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#edfa3f;"/>
+      </g>
+    </g>
+</g>
+
+<!-- ITEM 5 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-5">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(1002.0 63.0) rotate(0.0 17.0 17.0) scale(0.2856902781278884 0.2856902781278884)">
+      <g clip-path="url(#clip-path-id-viewbox-item-5)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#edfa3f;"/>
+      </g>
+    </g>
+</g>
+
+<!-- ITEM 6 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-6">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(996.0 636.0) rotate(0.0 17.0 17.0) scale(0.2856902781278884 0.2856902781278884)">
+      <g clip-path="url(#clip-path-id-viewbox-item-6)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#edfa3f;"/>
+      </g>
+    </g>
+</g>
+
+<!-- ITEM 7 -->
+<g>
+    <defs>
+        
+        <clipPath id="clip-path-id-viewbox-item-7">
+            <rect x="0.0" y="0.0" width="119.01" height="119.01"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(673.0 79.0) rotate(0.0 17.5 17.5) scale(0.2940929333669439 0.2940929333669439)">
+      <g clip-path="url(#clip-path-id-viewbox-item-7)" transform="translate(-0.0 -0.0)">
+      <title>circle_background_white</title><circle cx="59.5" cy="59.5" r="59.5" style="fill:#69afc3;"/>
+      </g>
+    </g>
+</g>
+
+              </svg>
